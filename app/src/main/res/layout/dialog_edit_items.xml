@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/gold_charges"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:inputType="numberDecimal"
+        android:hint="Gold Charges"/>
+    <Spinner
+        android:id="@+id/gold_color"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"/>
+    <EditText
+        android:id="@+id/gold_purity"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:inputType="numberDecimal"
+        android:hint="Gold Purity"/>
+
+    <Spinner
+        android:id="@+id/diamond_shape"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"/>
+    <EditText
+        android:id="@+id/diamond_carat_weight"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:inputType="numberDecimal"
+        android:hint="Diamond weight"/>
+    <Spinner
+        android:id="@+id/diamond_color"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:hint="Diamond Color"/>
+    <Spinner
+        android:id="@+id/diamond_clarity"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:hint="Diamond Clarity"/>
+
+</LinearLayout>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_bangles"
+            android:icon="@drawable/ic_donut_large_black_24dp"
+            android:title="Bangles" />
+        <item
+            android:id="@+id/nav_pendants"
+            android:icon="@drawable/ic_donut_large_black_24dp"
+            android:title="Pendants" />
+        <item
+            android:id="@+id/nav_rings"
+            android:icon="@drawable/ic_donut_large_black_24dp"
+            android:title="Rings" />
+
+        <item
+            android:id="@+id/nav_earrings"
+            android:icon="@drawable/ic_donut_large_black_24dp"
+            android:title="Earrings" />
+
+        <item
+            android:id="@+id/nav_bracelets"
+            android:icon="@drawable/ic_donut_large_black_24dp"
+            android:title="Bracelets" />
+    </group>
+
+    <item android:title="Other">
+        <menu>
+            <item
+                android:id="@+id/nav_settings"
+                android:title="Settings" />
+            <item
+                android:id="@+id/nav_privacy_policy"
+                android:title="Privacy policy" />
+            <item
+                android:id="@+id/nav_about_us"
+                android:title="About us" />
+        </menu>
+    </item>
+
+</menu>

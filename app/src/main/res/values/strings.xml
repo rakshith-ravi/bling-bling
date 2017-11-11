@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">KKS Jewels</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="details">Details</string>
+    <string name="clarity">Clarity</string>
+    <string name="color">Color</string>
+    <string name="sieve_size">Sieve size</string>
+    <string name="gold_quantity">Gold quantity</string>
+    <string name="diamond_quantity">Diamond quantity</string>
+    <string name="add_to_basket">Add to basket</string>
+    <string name="basket">Basket</string>
+    <string name="customize">Customize</string>
+    <string name="gold_price">Gold Price</string>
+    <string name="making_charges">Making charges</string>
+    <string name="vat">VAT %</string>
+    <string name="gold">Gold</string>
+    <string name="charges">Charges</string>
+    <string name="purity">Purity</string>
+    <string name="diamond">Diamond</string>
+    <string name="carat_weight">Carat weight</string>
+    <string name="shape">Shape</string>
+    <array name="items">
+        <item>Test 1</item>
+        <item>Test 2</item>
+        <item>Test 3</item>
+        <item>Test 4</item>
+        <item>Test 5</item>
+        <item>Test 6</item>
+        <item>Test 7</item>
+        <item>Test 8</item>
+        <item>Test 9</item>
+        <item>Test 10</item>
+    </array>
+</resources>
